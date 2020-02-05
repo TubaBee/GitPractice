@@ -1,7 +1,7 @@
 package test;
 
 public class Mars {
-    public static void main(string[] args){
+    public static void main(String[] args){
   System.out.println("Hello world");
   
   
