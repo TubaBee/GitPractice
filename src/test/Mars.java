@@ -6,6 +6,9 @@ public class Mars {
   System.out.println("\n");
   
   
+  //This is some code
+  
+  
   System.out.println("Hello world");
       System.out.println("Gitten ekleyip eclipse gondericez");
 
