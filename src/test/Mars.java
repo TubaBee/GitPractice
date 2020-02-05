@@ -12,5 +12,5 @@ public class Mars {
   System.out.println("Hello world");
       System.out.println("Gitten ekleyip eclipse gondericez");
 
-}
+}// this is world hey
 }
